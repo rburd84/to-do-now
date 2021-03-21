@@ -1,0 +1,15 @@
+{
+  "name": "todo-now",
+  "version": "1.0.0",
+  "description": "To Do list project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RBurd",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
